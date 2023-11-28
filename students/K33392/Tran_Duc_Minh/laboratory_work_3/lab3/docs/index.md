@@ -10,3 +10,4 @@ Welcome to the documentation for the TDEE (Total Daily Energy Expenditure) App A
 - [Profiles](profiles.md)
 - [Daily Data](daily_data.md)
 - [User Foods](user_foods.md)
+
